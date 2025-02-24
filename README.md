@@ -4,7 +4,7 @@
 - [Overview](#-overview)  
 - [Technologies Used](#-technologies-used)  
 - [Features](#-features)  
-- [Circuit Diagram](#-circuit-diagram)  
+- [Circuit Diagram](CIRCUIT)  
 - [Setup & Installation](#-setup--installation)   
 
 ## 🔍 Overview  
